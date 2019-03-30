@@ -1,0 +1,15 @@
+ #Thispage{
+    margin: auto;
+    text-align: center;
+    border: solid 1px;
+}
+
+#button { 
+    text-align: center}
+h1{color: orange;}
+
+#img {
+    background-color: grey;
+    width: 150px;
+    height: 200px;
+}
